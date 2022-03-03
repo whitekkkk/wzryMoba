@@ -1,3 +1,4 @@
+已将admin和web打包到serve，localhost:3000/admin为管理员页面，localhost:3000默认为前端页面
 ## 一、 管理后台
 1. 基于Element UI的后台管理基础界面搭建
 
